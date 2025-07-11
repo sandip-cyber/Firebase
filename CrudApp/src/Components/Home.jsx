@@ -50,9 +50,10 @@ const Home = () => {
     }, []);
 
     return (
-
+           
 
         <div>
+            <div>This is  testing for image and data send in firebase and cloudinary </div>
             <form onSubmit={handleSubmit}>
                
                 <input type="file"
