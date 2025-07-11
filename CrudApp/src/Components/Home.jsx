@@ -53,7 +53,6 @@ const Home = () => {
 
 
         <div>
-<h1>This for testing in Image and data send(Firebase and Cloudinary) <h1/>
 
             <form onSubmit={handleSubmit}>
                
