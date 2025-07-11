@@ -50,8 +50,9 @@ const Home = () => {
     }, []);
 
     return (
+
+
         <div>
-            <h1>This for Testing in Image and data send using firbase and Cloudinary</h1>
             <form onSubmit={handleSubmit}>
                
                 <input type="file"
