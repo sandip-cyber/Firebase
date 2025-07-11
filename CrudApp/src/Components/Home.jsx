@@ -51,8 +51,10 @@ const Home = () => {
 
     return (
 
-<h1>This for testing in Image and data send(Firebase and Cloudinary) <h1/>
+
         <div>
+<h1>This for testing in Image and data send(Firebase and Cloudinary) <h1/>
+
             <form onSubmit={handleSubmit}>
                
                 <input type="file"
